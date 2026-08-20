@@ -21,6 +21,7 @@ docente y el workflow restaura automáticamente su versión oficial.
 
 ## Antes de empezar
 
+##test
 Para trabajar local necesitás GCC:
 - **Linux:** `sudo apt install gcc`
 - **macOS:** `xcode-select --install` o `brew install gcc`
